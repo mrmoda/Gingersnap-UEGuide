@@ -275,10 +275,10 @@
   word-wrap:break-word;
 }
 #u8 {
-  position:fixed;
-  left:50%;
-  margin-left:-300px;
-  bottom:0px;
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:558px;
   width:600px;
   height:222px;
   overflow:hidden;
